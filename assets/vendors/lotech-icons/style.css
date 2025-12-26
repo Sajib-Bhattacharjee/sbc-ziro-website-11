@@ -1,0 +1,328 @@
+@font-face {
+  font-family: 'Flaticon';
+  src:  url('fonts/Flaticon.eot?hksyye');
+  src:  url('fonts/Flaticon.eot?hksyye#iefix') format('embedded-opentype'),
+    url('fonts/Flaticon.ttf?hksyye') format('truetype'),
+    url('fonts/Flaticon.woff?hksyye') format('woff'),
+    url('fonts/Flaticon.svg?hksyye#Flaticon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="flaticon-"], [class*=" flaticon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'Flaticon' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-filter:before {
+  content: "\e924";
+}
+.flaticon-grid:before {
+  content: "\e925";
+}
+.flaticon-bookmark:before {
+  content: "\e922";
+}
+.flaticon-circle:before {
+  content: "\e923";
+}
+.flaticon-wishlist:before {
+  content: "\e962";
+}
+.flaticon-cart:before {
+  content: "\e963";
+}
+.flaticon-ellipsis:before {
+  content: "\e90f";
+}
+.flaticon-backup:before {
+  content: "\e90d";
+}
+.flaticon-cyber1:before {
+  content: "\e90e";
+}
+.flaticon-consulting:before {
+  content: "\e946";
+}
+.flaticon-cyber:before {
+  content: "\e947";
+}
+.flaticon-data:before {
+  content: "\e948";
+}
+.flaticon-discover:before {
+  content: "\e949";
+}
+.flaticon-inteligence:before {
+  content: "\e94a";
+}
+.flaticon-light:before {
+  content: "\e94b";
+}
+.flaticon-manage:before {
+  content: "\e94c";
+}
+.flaticon-management:before {
+  content: "\e94d";
+}
+.flaticon-mind:before {
+  content: "\e94e";
+}
+.flaticon-mobile:before {
+  content: "\e94f";
+}
+.flaticon-network:before {
+  content: "\e950";
+}
+.flaticon-phone1:before {
+  content: "\e951";
+}
+.flaticon-play1:before {
+  content: "\e952";
+}
+.flaticon-software:before {
+  content: "\e953";
+}
+.flaticon-star21:before {
+  content: "\e954";
+}
+.flaticon-strategry:before {
+  content: "\e955";
+}
+.flaticon-support:before {
+  content: "\e956";
+}
+.flaticon-envelope:before {
+  content: "\e957";
+}
+.flaticon-location:before {
+  content: "\e958";
+}
+.flaticon-location2:before {
+  content: "\e959";
+}
+.flaticon-long-arrow-right:before {
+  content: "\e95a";
+}
+.flaticon-long-arrow-left:before {
+  content: "\e95f";
+}
+.flaticon-long-arrow-bottom:before {
+  content: "\e960";
+}
+.flaticon-long-arrow-top:before {
+  content: "\e961";
+}
+.flaticon-mail:before {
+  content: "\e95b";
+}
+.flaticon-phone:before {
+  content: "\e95c";
+}
+.flaticon-play:before {
+  content: "\e95d";
+}
+.flaticon-star2:before {
+  content: "\e95e";
+}
+.flaticon-play-button-arrowhead:before {
+  content: "\e900";
+}
+.flaticon-best-seller:before {
+  content: "\e901";
+}
+.flaticon-certificate:before {
+  content: "\e902";
+}
+.flaticon-group-chat:before {
+  content: "\e903";
+}
+.flaticon-technical-support:before {
+  content: "\e904";
+}
+.flaticon-check-mark:before {
+  content: "\e905";
+}
+.flaticon-phone-call:before {
+  content: "\e906";
+}
+.flaticon-next:before {
+  content: "\e907";
+}
+.flaticon-check:before {
+  content: "\e908";
+}
+.flaticon-down:before {
+  content: "\e909";
+}
+.flaticon-mail1:before {
+  content: "\e90a";
+}
+.flaticon-hamburger:before {
+  content: "\e90b";
+}
+.flaticon-arrows:before {
+  content: "\e90c";
+}
+.flaticon-calendar:before {
+  content: "\e911";
+}
+.flaticon-plus:before {
+  content: "\e912";
+}
+.flaticon-home:before {
+  content: "\e913";
+}
+.flaticon-medal:before {
+  content: "\e914";
+}
+.flaticon-people:before {
+  content: "\e915";
+}
+.flaticon-group:before {
+  content: "\e916";
+}
+.flaticon-teamwork:before {
+  content: "\e917";
+}
+.flaticon-arrow:before {
+  content: "\e918";
+}
+.flaticon-up-right-arrow:before {
+  content: "\e919";
+}
+.flaticon-tick-inside-circle:before {
+  content: "\e91a";
+}
+.flaticon-down-right:before {
+  content: "\e91b";
+}
+.flaticon-top-right:before {
+  content: "\e91c";
+}
+.flaticon-up-arrow:before {
+  content: "\e91d";
+}
+.flaticon-straight-quotes:before {
+  content: "\e91e";
+}
+.flaticon-price-tag:before {
+  content: "\e91f";
+}
+.flaticon-chat:before {
+  content: "\e920";
+}
+.flaticon-star:before {
+  content: "\e926";
+}
+.flaticon-pinterest:before {
+  content: "\e927";
+}
+.flaticon-arrow-right:before {
+  content: "\e928";
+}
+.flaticon-arrow-left:before {
+  content: "\e929";
+}
+.flaticon-calendar1:before {
+  content: "\e92a";
+}
+.flaticon-cart1:before {
+  content: "\e92b";
+}
+.flaticon-check1:before {
+  content: "\e92c";
+}
+.flaticon-check-box:before {
+  content: "\e92d";
+}
+.flaticon-close1:before {
+  content: "\e92e";
+  color: #838383;
+}
+.flaticon-comments-two:before {
+  content: "\e92f";
+}
+.flaticon-comment-three:before {
+  content: "\e930";
+}
+.flaticon-customer:before {
+  content: "\e931";
+}
+.flaticon-delivery:before {
+  content: "\e932";
+}
+.flaticon-dollar:before {
+  content: "\e933";
+}
+.flaticon-double-right:before {
+  content: "\e934";
+}
+.flaticon-eye:before {
+  content: "\e935";
+}
+.flaticon-hamburger1:before {
+  content: "\e936";
+}
+.flaticon-home1:before {
+  content: "\e937";
+}
+.flaticon-instagram1:before {
+  content: "\e938";
+}
+.flaticon-language:before {
+  content: "\e939";
+}
+.flaticon-location-dot:before {
+  content: "\e93a";
+}
+.flaticon-mail11:before {
+  content: "\e93b";
+}
+.flaticon-paper-plan:before {
+  content: "\e93c";
+}
+.flaticon-payment:before {
+  content: "\e93d";
+}
+.flaticon-quote:before {
+  content: "\e93e";
+}
+.flaticon-return:before {
+  content: "\e93f";
+}
+.flaticon-search1:before {
+  content: "\e940";
+}
+.flaticon-support1:before {
+  content: "\e941";
+}
+.flaticon-user:before {
+  content: "\e942";
+}
+.flaticon-user-three:before {
+  content: "\e943";
+}
+.flaticon-user-two:before {
+  content: "\e944";
+}
+.flaticon-wishlist1:before {
+  content: "\e945";
+}
+.flaticon-close:before {
+  content: "\e910";
+}
+.flaticon-search:before {
+  content: "\e921";
+}

@@ -1,0 +1,52 @@
+body {
+  overflow-x: hidden;
+  direction: rtl;
+}
+
+.owl-carousel {
+  direction: ltr;
+}
+
+.owl-carousel .owl-nav,
+.owl-carousel .owl-dots,
+.owl-carousel .owl-item {
+  direction: rtl;
+}
+
+.contact__input-box .bootstrap-select .dropdown-menu,
+.bootstrap-select .dropdown-toggle .filter-option {
+  text-align: right;
+}
+
+.list-unstyled {
+  padding-right: 0;
+}
+
+.sec-title__tagline.bw-split-text > div {
+  background-image: linear-gradient(to left, rgba(var(--lotech-base-rgb, 73, 70, 236), 0.2) 50%, var(--lotech-base, #4946EC) 50%);
+}
+
+.sec-title__title.bw-split-text > div {
+  background-image: linear-gradient(to left, rgba(var(--lotech-black-rgb, 14, 15, 17), 0.1) 50%, var(--lotech-black, #0E0F11) 50%);
+}
+
+.service-one__item__btn__icon,
+.lotech-btn__icon {
+  transform: rotate(-90deg);
+}
+
+.cta-one__box__image {
+  transform: scaleX(-1);
+}
+
+.cta-one__box__icon {
+  transform: scaleX(-1);
+  padding-left: 32px;
+  padding-right: 0;
+  justify-content: flex-end;
+}
+
+.scroll-top::after {
+  transform: rotate(-45deg);
+}
+/*# sourceMappingURL=lotech-custom-rtl.css.map */
